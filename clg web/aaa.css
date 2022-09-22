@@ -1,10 +1,21 @@
-#top{
+#top1{
     /* border: 2px red solid; */
     width: 100%;
-    height: 105px;
+    height: 110px;
     background-image: url( Untitled-1.jpg );
     background-size: 100%;
-    /* display: flex; */
+    display: flex;
+    justify-content: center;   
+}
+#top{
+    width: 100%;
+    height: 20px;
+    background-color: #d00000;
+}
+#topimg{
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
     
 }
 .topmarquee{
@@ -12,24 +23,23 @@
     background-color: #6e71cc58;
     font-weight: 1000;
 }
-
-
-
 #hmain{
     /* border:2px solid red; */
     width: 100%;
-    height: 800px;
+    height: 700px;
     background-image: url(Untitled-2.jpg);
-    background-size: 100% 800px;
+    background-size: 100% 700px;
 }
 
 .hbox{
     /* border: 3px black solid; */
     width: 100%;
-    height: 30px;
+    height: 40px;
     background-color: rgba(0, 0, 0, 0.779);
     text-align: right;
     padding-top: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
     /* box-shadow: 0px 5px 10px 5px black; */
    
 }
@@ -41,9 +51,13 @@
     text-decoration: none;
 }
 #name{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+#name1{
     font-size: 60px;
     text-align: center;
-    color: #eac960 ;
+    color: #f0c740 ;
     font-family: arial;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -51,7 +65,7 @@
 #name2{
     font-size: 30px;
     text-align: center;
-    color: #eac960 ;
+    color: #f0c740;
     font-family: arial;
     margin-top: 0px;
 }
