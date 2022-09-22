@@ -64,7 +64,7 @@ hr{
 #akmmain{
   /* border: 2px solid red; */
   width: 100%;
-  height: 1030px;
+  height: 1170px;
   margin-top: 50px;
   background-color: #b8edcf86  ;
   border-radius: var(--main-border-radius);
@@ -73,13 +73,13 @@ hr{
 #box2{
  /* border: 2px double red; */
  width: 100%;
- height: 300px;
+ height: 350px;
  display: flex;
 }
 #box3{
  /* border: 2px double red; */
  width: 100%;
- height: 300px;
+ height: 350px;
  margin-top: 30px;
  display: flex;
 }
@@ -87,7 +87,7 @@ hr{
 .box2_1{
 border:var(--barder);
 width: 30%;
-height: 250px;
+height: 300px;
 margin-left: 3%;
 margin-right: 3%;
 background-color: aqua;
@@ -99,12 +99,12 @@ border-radius: var(--main-border-radius);
 }
 
 .box2_1:hover{
-height:290px;
+height:340px;
 }
 .box2_2{
 border:var(--barder);
 width: 30%;
-height: 250px;
+height: 300px;
 transition-property:height;
 transition-duration: 2s;
 overflow: hidden;
@@ -113,11 +113,11 @@ background-color: var(--main-color);
 border-radius: var(--main-border-radius);
 }
 .box2_2:hover{
-    height:290px;
+    height:340px;
     }
 .img2{
     width: 100%;
-    height: 250px;
+    height: 300px;
     /* border-radius:8%; */
     border-radius: 30px 30px 0px 0px;
 }
@@ -137,7 +137,7 @@ h2{
 #hgtmain{
     /* border: 2px solid red; */
   width: 100%;
-  height: 700px;
+  height: 780px;
   margin-top: 50px;
   background-color: #b8cced86  ;
   border-radius: var(--main-border-radius);
@@ -148,7 +148,7 @@ h2{
 .boxhgt2_1{
     border:var(--barder);
     width: 30%;
-    height: 250px;
+    height: 300px;
     margin-left: 3%;
     margin-right: 3%;
     background-color: aqua;
@@ -159,12 +159,12 @@ h2{
     border-radius: var(--main-border-radius);
     }
     .boxhgt2_1:hover{
-        height:290px;
+        height:340px;
         }
 .boxhgt2_2{
     border:var(--barder);
     width: 30%;
-    height: 250px;
+    height: 300px;
     transition-property:height;
     transition-duration: 2s;
     overflow: hidden;
@@ -173,5 +173,5 @@ h2{
     border-radius: var(--main-border-radius);
     }
     .boxhgt2_2:hover{
-        height:290px;
+        height:340px;
         }
