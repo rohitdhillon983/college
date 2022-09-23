@@ -1,3 +1,5 @@
+
+
 #top1{
     /* border: 2px red solid; */
     width: 100%;
@@ -207,6 +209,7 @@ padding-left: 40px;
     padding-left:10px ;
     font-family: arial;
     padding-top: 10px;
+    /* font-size: 10px; */
 }
 .a2{
     text-decoration:none;
@@ -308,3 +311,19 @@ padding-left: 40px;
     border-radius: 30px;
 }
     
+
+@media all and (minwid-500px) and (maxwid-600px){
+    body{
+        background-color: red;
+    }
+
+
+
+
+
+
+
+
+
+    
+}
