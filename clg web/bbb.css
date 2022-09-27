@@ -13,14 +13,14 @@ h1{
     margin-bottom:0px;
 }
 hr{
-    width: 45%;
+    width: 560px;
     height: 3px;
    background-color: rgb(247, 7, 7);
     margin-bottom: 50px;
 }
 #top{
     /* border: 2px solid black; */
-    width: 100%;
+    width: 1245px;
     height: 790px;
     border-radius: var(--main-border-radius);
     background-color: #EBDEF0;
@@ -28,13 +28,13 @@ hr{
 /* anual function */
 #box1{
  /* border: 2px double red; */
- width: 100%;
+ width: 1245px;
  height: 300px;
  display: flex;
 }
 .box1_1{
     border: 2px double #D2B4DE;
-    width: 30%;
+    width: 373px;
     height: 300px;
     margin-left: 3%;
     margin-right: 3%;
@@ -44,7 +44,7 @@ hr{
     }
     .box1_2{
     border: 2px double #D2B4DE;
-    width: 30%;
+    width: 373px;
     height: 300px;
     background-color: aqua;
     border-radius: var(--main-border-radius);
@@ -63,7 +63,7 @@ hr{
     /* AKAM */
 #akmmain{
   /* border: 2px solid red; */
-  width: 100%;
+  width: 1245px;
   height: 1170px;
   margin-top: 50px;
   background-color: #b8edcf86  ;
@@ -72,13 +72,13 @@ hr{
  }
 #box2{
  /* border: 2px double red; */
- width: 100%;
+ width: 1245px;
  height: 350px;
  display: flex;
 }
 #box3{
  /* border: 2px double red; */
- width: 100%;
+ width: 1245px;
  height: 350px;
  margin-top: 30px;
  display: flex;
@@ -86,7 +86,7 @@ hr{
 
 .box2_1{
 border:var(--barder);
-width: 30%;
+width: 373px;
 height: 300px;
 margin-left: 3%;
 margin-right: 3%;
@@ -103,7 +103,7 @@ height:340px;
 }
 .box2_2{
 border:var(--barder);
-width: 30%;
+width: 373px;
 height: 300px;
 transition-property:height;
 transition-duration: 2s;
@@ -136,7 +136,7 @@ h2{
 /* har ghar tiranga */
 #hgtmain{
     /* border: 2px solid red; */
-  width: 100%;
+  width: 1245px;
   height: 780px;
   margin-top: 50px;
   background-color: #b8cced86  ;
@@ -147,7 +147,7 @@ h2{
 
 .boxhgt2_1{
     border:var(--barder);
-    width: 30%;
+    width: 373px;
     height: 300px;
     margin-left: 3%;
     margin-right: 3%;
@@ -163,7 +163,7 @@ h2{
         }
 .boxhgt2_2{
     border:var(--barder);
-    width: 30%;
+    width: 373px;
     height: 300px;
     transition-property:height;
     transition-duration: 2s;

@@ -1,14 +1,14 @@
 #top1{
     /* border: 2px red solid; */
-    width: 100%;
+    width: 1245px;
     height: 110px;
     background-image: url( Untitled-1.jpg );
-    background-size: 100%;
+    background-size: 1245px;
     display: flex;
     justify-content: center;   
 }
 #top{
-    width: 100%;
+    width: 1245px;
     height: 20px;
     background-color: #d00000;
 }
@@ -46,13 +46,13 @@
 
 #main1{
     /* border: 2px solid red; */
-    width: 100%;
+    width: 1245px;
     height: 400px;
     display: flex;
 }
 #main1_1{
     /* border: 3px solid black; */
-    width: 60%;
+    width: 745px;
     height: 360px;
     padding: 20px;
     text-align: justify;
@@ -60,14 +60,14 @@
 }
 #main1_2{
     /* border: 3px solid black; */
-    width: 40%;
+    width: 498px;
     height: 400px;
 }
 .main1_2_1{
     /* border: 2px solid red; */
-    width: 90%;
+    width: 440px;
     height: 400px;
-    margin-left: 4%;
+    margin-left: 20px;
     margin-top:0px;
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
@@ -79,7 +79,7 @@ ul li{
     transition: 1s;
     width: 100;
     line-height: 70px;
-    width: 70%;
+    width: 280px;
     margin-left: 90px;
    
 }
