@@ -1,14 +1,14 @@
 #top1{
     /* border: 2px red solid; */
-    width: 100%;
+    width: 1245px;
     height: 110px;
     background-image: url(Untitled-1.jpg);
-    background-size: 100%;
+    background-size: 1245px;
     display: flex;
     justify-content: center;   
 }
 #top{
-    width: 100%;
+    width: 1245px;
     height: 20px;
     background-color: #d00000;
 }
@@ -22,6 +22,7 @@
     font-family: arial;
     background-color: #6e71cc58;
     font-weight: 1000;
+    width: 1245px;
 }
 #name1{
     font-size: 60px;
@@ -38,20 +39,46 @@
     font-family: arial;
     margin-top: 0px;
 }
+#topbrmain{
+    width: 1245px;
+    height: 100px;
+    /* border: 2px solid blue; */
+    display: grid;
+    grid-template-columns:240px 240px 240px 240px 240px ;
+    grid-template-rows: 100px 100px;
+    grid-gap:10px;
+    
+
+}
+.topbranch{
+    background: #d06800b7;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px 25px 12px ;
+    
+}
+#heading{
+    /* border: 2px solid red; */
+    background: rgb(234, 210, 210);
+    width: 1245px;
+}
 
 h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 30px;
+    font-size: 40px;
+    padding: 0px 0px 10px 10px;
 }
+
 #main1{
     /* border: 2px solid red; */
-    width: 100%;
+    width: 1245px;
     height: 400px;
     display: flex;
 }
 #main1_1{
     /* border: 3px solid black; */
-    width: 60%;
+    width: 747px;
     height: 360px;
     padding: 20px;
     text-align: justify;
@@ -59,12 +86,12 @@ h1{
 }
 #main1_2{
     /* border: 3px solid black; */
-    width: 40%;
+    width: 498px;
     height: 400px;
 }
 .main1_2_1{
     /* border: 2px solid red; */
-    width: 90%;
+    width: 440px;
     height: 400px;
     margin-left: 4%;
     margin-top:0px;
@@ -78,8 +105,9 @@ ul li{
     transition: 1s;
     width: 100;
     line-height: 70px;
-    width: 70%;
+    width: 280px;
     margin-left: 90px;
+    border: 1px solid gray;
 
 }
 ul li a{
@@ -98,4 +126,8 @@ ul li:hover a{
     }
 li{
     padding-left: 20px;
+}
+#labimg{
+    border-radius: 10px;
+    margin-top: 20px;
 }
