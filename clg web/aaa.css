@@ -2,15 +2,15 @@
 
 #top1{
     /* border: 2px red solid; */
-    width: 100%;
+    width: 1245px;
     height: 110px;
     background-image: url( Untitled-1.jpg );
-    background-size: 100%;
+    background-size: 1245px;
     display: flex;
     justify-content: center;   
 }
 #top{
-    width: 100%;
+    width: 1245px;
     height: 20px;
     background-color: #d00000;
 }
@@ -24,18 +24,19 @@
     font-family: arial;
     background-color: #6e71cc58;
     font-weight: 1000;
+    width: 1245px;
 }
 #hmain{
     /* border:2px solid red; */
-    width: 100%;
+    width: 1245px;
     height: 700px;
     background-image: url(Untitled-2.jpg);
-    background-size: 100% 700px;
+    background-size: 1245px 700px;
 }
 
 .hbox{
     /* border: 3px black solid; */
-    width: 100%;
+    width: 1245px;
     height: 40px;
     background-color: rgba(0, 0, 0, 0.779);
     text-align: right;
@@ -73,14 +74,14 @@
 }
 #box1{
     /* border: 3px solid red; */
-    width: 100%;
+    width: 1245px ;
     height: 915px;
     margin: auto;
     margin-top: 20px;
     border-radius: 30px;
     background-color: #f6ede7;
     background-image: url( aaabbb.webp);
-    background-size:100% 100% ;
+    /* background-size:100% 100% ; */
 }
 .box1{
     text-align: center;
@@ -91,7 +92,7 @@
 }
 #box2{
     /* border: 2px solid black; */
-    width: 100%;
+    width: 1245px;
     height: 350px;
     display: flex;
     border-radius: 30px;
@@ -100,20 +101,20 @@
 }
 .box2{
     /* border: 2px green dotted; */
-    width: 50%;
+    width: 622.5px;
     height: 350px;
     border-radius: 30px;
 }
 .box3{
     /* border: 2px green dotted; */
-    width: 40%;
+    width: 498px;
     height: 350px;
     border-radius: 30px;
     margin-left: 10%;
     margin-right: 30px;
 }
 #video{
-    width: 100%;
+    width: 498px;
     height: 350px;
     border-radius: 30px;
 }
@@ -135,14 +136,14 @@ padding-left: 40px;
 .hedding{
     
     text-align: center;
-    margin-top: 100px;
+    /* margin-top: 1245px; */
     margin-bottom: 50px;
     font-size: 50px;
 }
 /* principal main */
 #box3{
     /* border: 2px green solid; */
-    width: 100%;
+    width: 1245px;
     height: 400px;
     margin-top: 70px;
     display: flex;
@@ -151,13 +152,13 @@ padding-left: 40px;
 /* institute mission */
 .box3_1{
     /* border: 2px blue solid; */
-    width: 50%;
+    width: 622.5px;
     height: 400px;
 }
 /* principal */
 .box3_2{
     /* border: 2px blue solid; */
-    width: 50%;
+    width: 622.5px;
     height: 400px;
     box-shadow: 2px 2px 5px pink;
     background-color: #33CCCC;
@@ -180,7 +181,7 @@ padding-left: 40px;
 /* courses offered */
 #box4{
     /* border: 2px solid black ; */
-    width: 100%;
+    width: 1245px;
     height: 400px;
     margin-top: 20px;
     display: flex;
@@ -188,7 +189,7 @@ padding-left: 40px;
 }
 .box4{
     /* border: red solid; */
-    width: 19%;
+    width: 236.55px;
     height: 380px;
     /* display: flex; */
     /* justify-content:center; */
@@ -200,7 +201,7 @@ padding-left: 40px;
 }
 .sbox1{
     /* border: 2px green solid; */
-    width: 100%;
+    width: 233px;
     height: 80px;
     background-color: #6e71cc ;
     border-radius: 18px;
@@ -223,8 +224,8 @@ padding-left: 40px;
 }
  /* news */
 .main{
-    /* border:2px red solid ; */
-    width: 90%;
+    /* border:2px red solid; */
+    width: 1245px;
     height: 500px;
     display: flex;
     justify-content: center;
@@ -233,7 +234,7 @@ padding-left: 40px;
 }
 .child1{
     /* border: 2px green solid; */
-    width: 40%;
+    width: 498px;
     height: 450px;
     /* margin: auto; */
     border-radius:30px 30px 30px 30px ;
@@ -243,7 +244,7 @@ padding-left: 40px;
 }
 .child2{
     /* border: 2px black solid; */
-    width: 100%;
+    width: 498px;
     height:200px ;
     border-radius:30px 30px 30px 30px ;
     background-color:#c3dec8a1;
@@ -254,7 +255,7 @@ padding-left: 40px;
 }
 .child3{
     /* border: 2px blue solid; */
-    width: 40%;
+    width: 199.2px;
     height: 170px;
     border-radius:30px 30px 30px 30px ;
     padding-top: 30px;
@@ -262,7 +263,7 @@ padding-left: 40px;
 }
 .child5{
     /* border: 2px green solid; */
-    width: 40%;
+    width: 498px;
     height: 450px;
     /* margin: auto; */
     border-radius:30px 30px 30px 30px ;
@@ -293,7 +294,7 @@ padding-left: 40px;
 }
 #gmain{
     /* border: 2px solid black; */
-    width: 100%;
+    width: 1245px;
     height:300px ;
     display: flex;
     justify-content: center;
@@ -301,7 +302,7 @@ padding-left: 40px;
 .gbox1{
     /* border: 2px red dotted; */
     height: 300px;
-    width: 30%;
+    width: 373.5px;
     border-radius: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 40px;
@@ -312,7 +313,7 @@ padding-left: 40px;
     text-decoration: none;
 }
 .gimage{
-    width: 100%;
+    width: 373.5px;
     height: 250px;
     border-radius: 30px;
 }
